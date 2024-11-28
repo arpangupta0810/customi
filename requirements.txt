@@ -2,7 +2,7 @@ streamlit==1.26.0
 pillow==9.4.0
 torch
 opencv-python-headless==4.8.0.74
-diffusers==0.11.1
+diffusers
 groq==0.4.2
-huggingface_hub==0.15.1
+huggingface_hub
 accelerate==0.23.0
